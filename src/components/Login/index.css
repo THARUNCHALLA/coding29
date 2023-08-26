@@ -1,0 +1,15 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  color: black;
+}
+.button {
+  cursor: pointer;
+  font-weight: 700;
+  height: 30px;
+}
